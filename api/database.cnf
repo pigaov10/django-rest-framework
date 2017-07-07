@@ -1,0 +1,6 @@
+[client]
+database = northwind
+user = root
+password = root
+port = 8889
+default-character-set = utf8
